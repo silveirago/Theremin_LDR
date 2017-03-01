@@ -1,4 +1,4 @@
-# Theremin_LDR
+# Theremin LDR
 
 Aprenda a fazer um simples Theremin com um Arduino e um sensor de luz LDR.
 
